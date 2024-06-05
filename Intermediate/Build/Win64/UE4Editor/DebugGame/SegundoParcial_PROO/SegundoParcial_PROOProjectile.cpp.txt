@@ -1,0 +1,7 @@
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\DebugGame\SegundoParcial_PROO\Definitions.SegundoParcial_PROO.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\SegundoParcial_PROOProjectile.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\SegundoParcial_PROOProjectile.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

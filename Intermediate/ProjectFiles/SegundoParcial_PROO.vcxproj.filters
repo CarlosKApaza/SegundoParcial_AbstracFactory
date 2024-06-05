@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SegundoParcial_PROO.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5B3B9A5A-52E7-4BE3-9A51-4E6B9F38D27F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SegundoParcial_PROO.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SegundoParcial_PROOEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{36061CE7-C7F8-40E1-9E43-C3CC84935DE3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SegundoParcial_PROO">
+      <UniqueIdentifier>{F832BBA3-172B-4D1B-A0D8-CE41A0BF49AE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\ABSFabricaNaves.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\ABSFabricaNaves.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\FabricaNavesNiv1.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\FabricaNavesNiv1.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\FabricaNavesNiv2.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\FabricaNavesNiv2.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\NaveCaza.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\NaveCaza.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\NaveCazaAtaque.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\NaveCazaAtaque.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\NaveCazaDefensor.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\NaveCazaDefensor.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\NaveCazaReposo.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\NaveCazaReposo.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\NaveEnemiga.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\NaveEnemiga.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SegundoParcial_PROO\SegundoParcial_PROO.Build.cs">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\SegundoParcial_PROO.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\SegundoParcial_PROO.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\SegundoParcial_PROOGameMode.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\SegundoParcial_PROOGameMode.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\SegundoParcial_PROOPawn.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\SegundoParcial_PROOPawn.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SegundoParcial_PROO\SegundoParcial_PROOProjectile.cpp">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SegundoParcial_PROO\SegundoParcial_PROOProjectile.h">
+      <Filter>Source\SegundoParcial_PROO</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

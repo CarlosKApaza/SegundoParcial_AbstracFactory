@@ -1,0 +1,7 @@
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Development\SegundoParcial_PROO\Definitions.SegundoParcial_PROO.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO/NaveCazaDefensor.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\NaveEnemiga.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\NaveEnemiga.generated.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\NaveCazaDefensor.generated.h

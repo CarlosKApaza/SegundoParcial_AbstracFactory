@@ -1,0 +1,2 @@
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\DebugGame\SegundoParcial_PROO\Definitions.SegundoParcial_PROO.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\SegundoParcial_PROO.h

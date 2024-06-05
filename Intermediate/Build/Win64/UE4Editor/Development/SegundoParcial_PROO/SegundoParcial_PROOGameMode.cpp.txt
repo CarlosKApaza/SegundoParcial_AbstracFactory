@@ -1,0 +1,31 @@
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Development\SegundoParcial_PROO\Definitions.SegundoParcial_PROO.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\SegundoParcial_PROOGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\SegundoParcial_PROOGameMode.generated.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\SegundoParcial_PROOPawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\SegundoParcial_PROOPawn.generated.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\NaveCaza.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\NaveEnemiga.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\NaveEnemiga.generated.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\NaveCaza.generated.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\NaveCazaReposo.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\NaveCazaReposo.generated.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\NaveCazaAtaque.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\NaveCazaAtaque.generated.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\NaveCazaDefensor.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\NaveCazaDefensor.generated.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\ABSFabricaNaves.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\ABSFabricaNaves.generated.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\FabricaNavesNiv1.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\FabricaNavesNiv1.generated.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\FabricaNavesNiv2.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\FabricaNavesNiv2.generated.h

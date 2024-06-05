@@ -1,0 +1,5 @@
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\DebugGame\SegundoParcial_PROO\Definitions.SegundoParcial_PROO.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\NaveCazaAtaque.h
+C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\NaveEnemiga.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\NaveEnemiga.generated.h
+C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\NaveCazaAtaque.generated.h

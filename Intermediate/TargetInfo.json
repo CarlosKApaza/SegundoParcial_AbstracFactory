@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SegundoParcial_PROO",
+			"Path": "C:\\SIS457\\SegundoParcial_PROO\\Source\\SegundoParcial_PROO.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SegundoParcial_PROOEditor",
+			"Path": "C:\\SIS457\\SegundoParcial_PROO\\Source\\SegundoParcial_PROOEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
