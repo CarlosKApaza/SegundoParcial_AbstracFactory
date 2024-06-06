@@ -29,11 +29,24 @@ public:
 	FVector ubicacionNavesNiv1;
 	FVector ubicacionNavesNiv2;
 
-
-	float TimeElapsed;
+	//float TimeElapsed;
 	FTimerHandle NavesTimer;
-	void crearEscuadronNaves();
-	//void CrearEnemigosAleatoriamente
+
+	// Función para generar escuadrones
+	void GenerarEscuadron();
+	static FString ElegirTipoNaveAleatorio();
+	static FVector GenerarPosicionAleatoria(FVector MinimaPosicion, FVector MaximaPosicion);
+
+
+	// Temporizador
+	FTimerHandle EscuadronTimerHandle;
+
+
+	// Referencias a las fábricas de naves
+	class AABSFabricaNaves* FabricaNavesNiv1;
+	class AABSFabricaNaves* FabricaNavesNiv2;
+
+
 };
 
 

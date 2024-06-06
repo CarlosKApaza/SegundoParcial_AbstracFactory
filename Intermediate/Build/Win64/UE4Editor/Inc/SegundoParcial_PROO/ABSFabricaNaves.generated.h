@@ -9,7 +9,7 @@
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #ifdef SEGUNDOPARCIAL_PROO_ABSFabricaNaves_generated_h
-#error "ABSFabricaNaves.generated.h already included, missing '#pragma once' in ABSFabricaNaves.h"
+//#error "ABSFabricaNaves.generated.h already included, missing '#pragma once' in ABSFabricaNaves.h"
 #endif
 #define SEGUNDOPARCIAL_PROO_ABSFabricaNaves_generated_h
 

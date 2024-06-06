@@ -29,3 +29,6 @@ C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\FabricaNavesNiv1.h
 C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\FabricaNavesNiv1.generated.h
 C:\SIS457\SegundoParcial_PROO\Source\SegundoParcial_PROO\FabricaNavesNiv2.h
 C:\SIS457\SegundoParcial_PROO\Intermediate\Build\Win64\UE4Editor\Inc\SegundoParcial_PROO\FabricaNavesNiv2.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
